@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "secureip" -o "C:/Users/D.H.ERAM/Desktop/project/thermometerSPI/SPI_tb_isim_beh.exe" -prj "C:/Users/D.H.ERAM/Desktop/project/thermometerSPI/SPI_tb_beh.prj" "work.SPI_tb" 
